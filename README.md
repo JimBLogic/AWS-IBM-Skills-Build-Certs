@@ -1,4 +1,5 @@
-# AWS Cloud Practitioner
+# AWS Certified Cloud Practitioner
+## In progress...
 ##AWS SIMULEARN: Cloud Practitioner
 
 ![AWS SIMULEARN: Cloud Practitioner](https://github.com/JimBLogic/AWS-IBM-Skills-Build-Certs/blob/main/certs/AWS%20SimuLearn%20Cloud%20Practitioner%2012h.png)
